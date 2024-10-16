@@ -4,7 +4,7 @@ AMP: PGA-103+
 
 # High-pass Filter
 
-1420MHz
+TA2494A
 
 # MIXER
 
